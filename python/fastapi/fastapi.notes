@@ -1,0 +1,3 @@
+[run server via `uvicorn`]
+
+uvicorn <module>:<app_name> --host <host> --port <port> --reload
