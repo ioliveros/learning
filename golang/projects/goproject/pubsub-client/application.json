@@ -1,13 +1,13 @@
 {
   "type": "service_account",
-  "project_id": "ioliveros-portfolio",
-  "private_key_id": "ee27e902b524d5360da344e2b80000ca49634f1a",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCOlzPU1uOfl90P\nL8sCMBBhwDmDPK1Og9HGavXAZHt/PFFeLlBYY34Uq65Wt05NLV8zIilXu3sGzgQz\n+D/mT59uSYs/2pM8eQ+zG+vG/k+4zLawi8D11ZYA/KEg6jM6OIO2OLKhNTotrFNF\nmf+KTdGdXpn1BH97azDN2WCJF4ACLsDGoI2S7FaWz4neC5+S4VRiDIgzwzNl43RO\nR2axXXWrPXlLBxBexzvluBEcRmDHVhxG8iNfb3qjtdhgeo5W5H7HTBpgfWw4GcM2\n5mK2ERu/kpvSJk2uhIyLdi3juWL+rlx2FzvpsLg931XH5H4jo5++0uF8CD37UwSc\nq6KxsJklAgMBAAECggEACcnhegQCfks7lrZONmk8RqmeiR7aOuCbvwZKtplvTO3E\nHDYLt/WkiyC6CCPvUScDOQxoUCiDqpTr/vFU2aevpy+PSqPjpawd4srQ5clBicsr\n43TEm1u9P3YYTZ0mRSHqENFVmfGAe/Avi0CmJUVwVWBQK1zSr5NNN2Rr1x1w4TVg\nL4SiFjMqzWV2ddca4RhNCxBlFlmopi0ICRKYBp7mxuF3nHdgZk3oPaXLIf+ZOM+9\n/so9im/Kfli9rljCDISQHMO8dGrbgv254e+sW8pFeXZjtGo0HfhsZlxy5jegmFlY\n0Qv4oddkAnCqSCMixdJTmwcxgGsh2AX+7ikVkhddBQKBgQDHBRt5VOLCL+zkL4ec\nkdve8jpPG26/oyrUiHDCbqjRJ4pniDDQvWh5s0M9bxjYp6zCifXCjn9A80U9T8ft\nSIPhsUJzwfMlqtUi24vQcqJQsR75j4Fn2F0seSTvODrVAqtklFGAFsL9oS/DOTG4\nYzOl21rA+/b9rWAjrUEg3cN+gwKBgQC3ai+xPkAl7Igukc4dDbM6aL2PJQiLqy6g\nONuHkeqtLQZJ0Bh9VGv8UaLt+hEuprDfXqEz/wJ+pWM7dzWYDM5l0Ok0Wi8CcwXf\nBk+vtkf4plRip9H9jfjPCrN/ujOu0WVI4yZtey9m3NUWIABHCM99T5f2MAcbmBm+\nun8tfWH5NwKBgDrEb1BsmGju7eyTfF/nUh2LOVySpSlBbSxE/cbsFj1sh5n6xS9e\nPrNxE7HYVGXlXUY0prVEjp8HNrLcFBUlDIxgY1b7NmkxAK7CVY6/yt447wSSM4wO\nf7TaMOXSnMy5dRLGGSrRjdKG/iuPf/cKk/2twCasQEq4H2NpjYm+8jMxAoGBAKpm\nre52jjRtn0vczGgzrTrryojt+BWCsWvLxzEZwLSpavkyqz3tK/IcikmcFVCJLzQm\n/4+GMPQmhZ3er90WsL7pK3AnBRu6b0731xrBN/Zr2WRa0/5EY08/euqEvLWC9x2T\nY8U9OBnRuuq2Smu0ZMjgJKdlkYTyd6C6NaO2pEpbAoGAFy/yCI/DB0RF7sryXl0K\nl7KO0cG+6L2Ghm9irQAbEA7377ojJYKHTGOmoeYpK0aw5L/O236GLEZY1hQ9y62J\nFSYsMbPmUde5VbU+qG0chBWKhQ6eX5d7r6ETTFfuZtVLy4MpzCBg+4+bkemV7xsz\n2HbakCEBcofiAeUN+/OkUIk=\n-----END PRIVATE KEY-----\n",
-  "client_email": "ioliveros-portfolio@appspot.gserviceaccount.com",
+  "project_id": "................",
+  "private_key_id": "...............",
+  "private_key": "...............",
+  "client_email": "................",
   "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ioliveros-portfolio%40appspot.gserviceaccount.com",
+  "client_x509_cert_url": "...............",
   "universe_domain": "googleapis.com"
 }
