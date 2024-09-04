@@ -3,3 +3,6 @@ __pycache__
 
 # ignore binaries
 *.gz
+
+# rust
+target
