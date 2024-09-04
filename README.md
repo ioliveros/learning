@@ -4,3 +4,5 @@
 - python
 - golang
 - javascript
+- typescript
+- rust 
